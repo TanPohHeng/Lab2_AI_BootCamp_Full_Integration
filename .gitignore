@@ -1,2 +1,5 @@
 .env
 logic.py
+*.db
+__pycache__/
+.streamlit/
